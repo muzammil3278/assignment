@@ -8,7 +8,7 @@ export default function gallery() {
     <Nav />
     <section class="third-section">
             <br/>
-            <h2>Our Wonderful Gallery:</h2>
+            <h2>Our Gallery:</h2>
             <br/><br/>
             <center>
                 <h2>Images</h2><br/>

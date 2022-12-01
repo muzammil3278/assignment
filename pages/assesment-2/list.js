@@ -7,8 +7,8 @@ export default function list() {
     <div>
     <Nav />
     <br/>
-            In <span class="html">HTML5</span> there are some new semantic elements that can be used to<br/><br/>
-             define different parts of a web page.
+            In <span class="html">HTML5</span> there are some semantic elements that can be used to<br/><br/>
+             define different components of a web page.
              <br/><br/><br/>
              <ul class="info-list">
                 <li><span class="blue"><b>&lt; article   &gt;</b></span></li><br/>

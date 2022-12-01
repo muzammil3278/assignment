@@ -9,8 +9,7 @@ export default function attributes() {
     <Nav />
     <section>
             <h2>Attributes</h2><br />
-            <p>The HTML attributes are used to provide more information to an 
-                <span class="html">HTML</span>element.<br /><br />
+            <p>The HTML attributes are used to provide more information to an HTML element
             <ul class="info-list">
                 <li class="list-items"><span class="html">HTML</span> tags only appear at start tags . It will never be on end tags . </li><br />
                 <li class="list-items">All <span class="html">HTML</span> elements can have attributes</li><br />
@@ -23,27 +22,9 @@ export default function attributes() {
                     </li><br />
                 </ul>
             </ul>
-
-            You can also use single quotation marks depending on the situation esp.<br />
-            when the value contains double quotes .<br /><br /><br />
-            For you to better understand it look at the example below.<br /><br />
             </p>
       
-                    <p>
-                        <br />
-                        &lt;<span class="blue">p</span> <span class="light-blue">title</span>= <span class="orange">"I
-                            serve as a tooltip"</span>&gt;
-                        This is a paragraph &lt;/<span class="blue">p</span> &gt;<br /><br /><br />
-
-                        &lt;<span class="blue">p</span> <span class="light-blue">title</span>= <span class="orange">"I'm
-                            a tooltip"</span>&gt;
-                        This is a paragraph &lt;/<span class="blue">p</span> &gt;<br /><br />
-
-                        &lt;<span class="blue">p</span> <span class="light-blue">title</span>= <span
-                            class="orange">'It</span><span class="light-blue">'s going to break</span>
-                        <span class="orange">'</span>&gt;
-                        This is a paragraph &lt;/<span class="blue">p</span> &gt;<br /><br />
-                    </p>
+               
         
         </section>
        
