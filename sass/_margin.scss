@@ -1,0 +1,35 @@
+$spacers : (0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20);
+$sides: (
+    'Top',
+    'Right',
+    'Bottom',
+    'Left'
+);
+$dirs: (
+    't',
+    'r',
+    'b',
+    'l'
+);
+// generate margin and padding classes of all direction
+@each $space in $spacers {
+
+    @each $side in $sides {
+        @each $dir in $dirs {
+
+            // margin
+            .m#{$dir}-#{$space} {
+                margin-#{$side}: #{$space}px;
+                &:hover:m#{$dir}-#{$space} {
+                    margin-#{$side}: #{$space}px;
+                }
+            }
+           
+
+            // padding
+            .p#{$dir}-#{$space} {
+                padding-#{$side}: #{$space}px;
+            }
+        }
+    }
+}

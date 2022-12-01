@@ -1,0 +1,27 @@
+// flex block 
+.block{display:block}
+.inline{display:inline-block}
+.flex{display:flex}
+.none{display: none;}
+// flex direction 
+.flex-row{flex-direction: row;}
+.flex-col{flex-direction:column;}
+// flex wrap
+.flex-wrap{flex-wrap: wrap;}
+// justify content
+.justify-center{justify-content: center;}
+.justify-space{justify-content: space-between;}
+.justify-around{justify-content: space-around;}
+.justify-start{justify-content: flex-start;}
+.justify-end{justify-content: end;}
+// align-item-apply on all under div
+.align-item-center{align-items: center;}
+.align-item-start{align-items: flex-start;}
+.align-item-end{align-items: flex-end;}
+.align-item-end{align-items: stretch;}
+
+// align-self-apply on any one under div
+.align-self-center{align-self: center;}
+.align-self-start{align-self: flex-start;}
+.align-self-end{align-self: flex-end;}
+.align-self-stretch{align-self: stretch;}
