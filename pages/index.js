@@ -1,7 +1,7 @@
 import React from 'react'
 import Link from 'next/link'
 
-import { Homes } from "../json/main";
+// import { Homes } from "../json/main";
 
 
 const index = () => {
