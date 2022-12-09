@@ -16,8 +16,9 @@ const index = () => {
           </div>
         );
       })} */}
-      <Link href="/assesment-1/">Assesment -1</Link>
-      <Link href="/assesment-2/">Assesment -2</Link>
+      <Link href="/assesment-1/">Assesment -1</Link><br/><hr/>
+      <Link href="/assesment-2/">Assesment -2</Link><br/><hr/>
+      <Link href="/assignment-3/">Assesment -3</Link><br/><hr/>
     </>
 
   )
