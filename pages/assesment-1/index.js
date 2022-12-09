@@ -16,9 +16,7 @@ export default function index() {
       <p>Heading 5 is made by using H5 tag</p>
       <h6>Heading 6</h6>
       <p>Heading 6 is made by using H6 tag</p>
-      <h1>
-        <u>Paragraph</u>
-      </h1>
+      <h1>Paragraph</h1>
       <p>
         Lorem ipsum dolor sit, amet consectetur adipisicing elit. Esse, magnam
         dolorem debitis odio a tempora, quibusdam fugiat quae ad voluptates et
@@ -30,20 +28,19 @@ export default function index() {
         modi doloremque, officiis iste natus consequuntur. Molestias voluptas
         quasi accusamus quisquam. Pariatur, quaerat?
       </p>
+      
+      
+      
       <div class="font-style:italic">Italic Text</div>
       <div class="font-style:bold">Bold Text</div>
       <div class="font-style:underline">Underline Text</div>
-      <h1>
-        <b>How to Bold any Text?</b>
-      </h1>
+      
+      
+      <h1>How to Bold any Text?</h1>
       <p>Using "b" tag.</p>
-      <h1>
-        <b>How to Italic any Text?</b>
-      </h1>
+      <h1>How to Italic any Text?</h1>
       <p>Using "i" tag.</p>
-      <h1>
-        <b>How to Underlined any Text?</b>
-      </h1>
+      <h1>How to Underlined any Text?</h1>
       <p>Using "u" tag.</p>
     </div>
   );
