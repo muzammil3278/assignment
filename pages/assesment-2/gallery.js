@@ -4,7 +4,8 @@ import Nav from './components/nav'
 import Fot from './components/fot'
 export default function gallery() {
   return (
-    <div>
+   
+    <div class="containers">
     <Nav />
     <section class="third-section">
             <br/>

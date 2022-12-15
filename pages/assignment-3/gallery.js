@@ -3,7 +3,7 @@ import React from 'react'
 import Nav from './comp/navbar'
 export default function gallery() {
   return (
-    <div>
+    <div class="containers"> 
     <Nav />
     <section class="third-section">
             <br/>

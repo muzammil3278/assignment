@@ -2,8 +2,8 @@ import React from "react";
 
 export default function index() {
   return (
-    <div>
-      <h1>HTML Assignment 1 Batch 6</h1>
+    <div class="containers">
+      <h1 class="text-center">HTML Assignment 1 Batch 6</h1>
       <h1>Heading 1</h1>
       <p>Heading 1 is made by using H1 tag</p>
       <h2>Heading 2</h2>
@@ -16,7 +16,7 @@ export default function index() {
       <p>Heading 5 is made by using H5 tag</p>
       <h6>Heading 6</h6>
       <p>Heading 6 is made by using H6 tag</p>
-      <h1>Paragraph</h1>
+    <br/><br/>  <h1>Paragraph</h1>
       <p>
         Lorem ipsum dolor sit, amet consectetur adipisicing elit. Esse, magnam
         dolorem debitis odio a tempora, quibusdam fugiat quae ad voluptates et
@@ -31,15 +31,13 @@ export default function index() {
       
       
       
-      <div class="font-style:italic">Italic Text</div>
-      <div class="font-style:bold">Bold Text</div>
-      <div class="font-style:underline">Underline Text</div>
-      
-      
+      <br/><br/> 
       <h1>How to Bold any Text?</h1>
       <p>Using "b" tag.</p>
+      <br/><br/> 
       <h1>How to Italic any Text?</h1>
       <p>Using "i" tag.</p>
+      <br/><br/> 
       <h1>How to Underlined any Text?</h1>
       <p>Using "u" tag.</p>
     </div>

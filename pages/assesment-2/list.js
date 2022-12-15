@@ -4,7 +4,7 @@ import Nav from './components/nav'
 import Fot from './components/fot'
 export default function list() {
   return (
-    <div>
+    <div class="containers">
     <Nav />
     <br/>
             In <span class="html">HTML5</span> there are some semantic elements that can be used to<br/><br/>

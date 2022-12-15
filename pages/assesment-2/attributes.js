@@ -5,7 +5,7 @@ import Fot from './components/fot'
 
 export default function attributes() {
   return (
-    <>
+    <div class="containers">
     <Nav />
     <section>
             <h2>Attributes</h2><br />
@@ -29,6 +29,6 @@ export default function attributes() {
         </section>
        
     <Fot />
-    </>
+    </div>
   )
 }
