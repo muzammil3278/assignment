@@ -106,13 +106,13 @@ const index = () => {
               <div class="green-bar w-90"></div>
               <div class="blue-bar w-10"></div>
             </div>
-            <br />  
-            <br />  
-            <span class="bold-text">Student Todos</span>    
-            <br />  
-            <br />  
-              <hr />
-              <br />
+            <br />
+            <br />
+            <span class="bold-text">Student Todos</span>
+            <br />
+            <br />
+            <hr />
+            <br />
             <br />
             <span class="bold-text">Row 3</span>
             <br />
@@ -182,4 +182,3 @@ const index = () => {
 };
 
 export default index;
-
