@@ -33,14 +33,14 @@ const index = () => {
         <hr />
       </div>
 
-      <h4>Practises Navbar</h4>
+      {/* <h4>Practises Navbar</h4>
       <div class="container">
         <Link class="p" href="/navbar/index1a">
           Navbar 1
         </Link>
         <br />
         <hr />
-      </div>
+      </div> */}
     </div>
   );
 };
