@@ -175,8 +175,252 @@ const index = () => {
             <br />
             <br />
           </p>
+          <p class="fs-20">
+          obcaecati saepe modi at odio nostrum natus quia nulla eos eaque
+            reiciendis? Pariatur? Lorem ipsum dolor sit amet, consectetur
+            adipisicing elit. Architecto reprehenderit officiis minus,
+            obcaecati saepe modi at odio nostrum natus quia nulla eos eaque
+            reiciendis? Pariatur? Lorem ipsum dolor sit amet, consectetur
+            adipisicing elit. Architecto reprehenderit officiis minus,
+            <br />
+            <br />
+            <span class="bold-text">Assignment 1</span>
+            <br />
+            <span class="bold-text">Provided Example</span>
+            <br />
+            <span class="bold-text">Row 1</span>
+            <br />
+            <br />
+            <div class="main-bar">
+              <div class="red-bar w-50"></div>
+              <div class="blue-bar w-50"></div>
+            </div>
+            <br />
+            <span class="bold-text">Row 2</span>
+            <br />
+            <br />
+            <div class="main-bar">
+              <div class="green-bar w-90"></div>
+              <div class="blue-bar w-10"></div>
+            </div>
+            <br />
+           
+            <span class="bold-text">Row 3</span>
+            <br />
+            <br />
+            <div class="main-bar">
+              <div class="red-bar w-10"></div>
+              <div class="green-bar w-80"></div>
+              <div class="blue-bar w-10"></div>
+            </div>
+            <br />
+            <span class="bold-text">Row 4</span>
+            <br />
+            <br />
+            <div class="main-bar">
+              <div class="red-bar w-10"></div>
+              <div class="blue-bar w-90"></div>
+            </div>
+            <br />
+           
+            <span class="bold-text">Row 5</span>
+            <br />
+            <br />
+            <div class="main-bar">
+              <div class="green-bar w-100"></div>
+              <div class="blue-bar c h-20 w-20p"></div>
+            </div>
+            <br />
+           
+            <span class="bold-text">Row 6</span>
+            <br />
+            <br />
+            <div class="main-bar">
+              <div class="red-bar w-40"></div>
+              <div class="blue-bar w-10"></div>
+              <div class="red-bar w-50"></div>
+            </div>
+            <br />
+           
+            <span class="bold-text">Row 7</span>
+            <br />
+            <br />
+            <div class="main-bar">
+              <div class="red-bar w-10"></div>
+             <div class="submain-bar w-90 h-7">
+             <div class="blue-bar w-100 h-7"></div>
+              <div class="green-bar w-100 h-7"></div>
+             <div class="blue-bar w-100"></div>
+             </div>
+            </div>
+            <br />
+           
+            <span class="bold-text">Row 8</span>
+            <br />
+            <br />
+            <div class="main-bar">
+              <div class="yellow-bar w-7"></div>
+              <div class="green-bar w-16"></div>
+              <div class="yellow-bar w-7"></div>
+              <div class="green-bar w-16"></div>
+              <div class="yellow-bar w-7"></div>
+              <div class="green-bar w-16"></div>
+              <div class="yellow-bar w-7"></div>
+              <div class="green-bar w-16"></div>
+              <div class="yellow-bar w-7"></div>
+            </div>
+            <br />
+           
+           
+           
+            <span class="bold-text">Row 9</span>
+            <br />
+            <br />
+            <div class="main-bar">
+              <div class="yellow-bar w-18"></div>
+              <div class="green-bar w-2"></div>
+              <div class="yellow-bar w-18"></div>
+              <div class="green-bar w-2"></div>
+              <div class="yellow-bar w-18"></div>
+              <div class="green-bar w-2"></div>
+              <div class="yellow-bar w-18"></div>
+              <div class="green-bar w-2"></div>
+              <div class="yellow-bar w-18"></div>
+            </div>
+            <br />
+
+          </p>
+ <div className="w-25">
+   <span class="bold-text">Assignment 1</span>
+            <br />
+            <span class="bold-text">Provided Example</span>
+            <br />
+            <span class="bold-text">Row 1</span>
+            <br />
+            <br />
+            <div class="main-bar">
+              <div class="red-bar w-50"></div>
+              <div class="blue-bar w-50"></div>
+            </div>
+            <br />
+            <span class="bold-text">Row 2</span>
+            <br />
+            <br />
+            <div class="main-bar">
+              <div class="green-bar w-90"></div>
+              <div class="blue-bar w-10"></div>
+            </div>
+            <br />
+           
+            <span class="bold-text">Row 3</span>
+            <br />
+            <br />
+            <div class="main-bar">
+              <div class="red-bar w-10"></div>
+              <div class="green-bar w-80"></div>
+              <div class="blue-bar w-10"></div>
+            </div>
+            <br />
+            <span class="bold-text">Row 4</span>
+            <br />
+            <br />
+            <div class="main-bar">
+              <div class="red-bar w-10"></div>
+              <div class="blue-bar w-90"></div>
+            </div>
+            <br />
+           
+            <span class="bold-text">Row 5</span>
+            <br />
+            <br />
+            <div class="main-bar">
+              <div class="green-bar w-100"></div>
+              <div class="blue-bar c h-20 w-20p"></div>
+            </div>
+            <br />
+           
+            <span class="bold-text">Row 6</span>
+            <br />
+            <br />
+            <div class="main-bar">
+              <div class="red-bar w-40"></div>
+              <div class="blue-bar w-10"></div>
+              <div class="red-bar w-50"></div>
+            </div>
+            <br />
+           
+            <span class="bold-text">Row 7</span>
+            <br />
+            <br />
+            <div class="main-bar">
+              <div class="red-bar w-10"></div>
+             <div class="submain-bar w-90 h-7">
+             <div class="blue-bar w-100 h-7"></div>
+              <div class="green-bar w-100 h-7"></div>
+             <div class="blue-bar w-100"></div>
+             </div>
+            </div>
+            <br />
+           
+            <span class="bold-text">Row 8</span>
+            <br />
+            <br />
+            <div class="main-bar">
+              <div class="yellow-bar w-7"></div>
+              <div class="green-bar w-16"></div>
+              <div class="yellow-bar w-7"></div>
+              <div class="green-bar w-16"></div>
+              <div class="yellow-bar w-7"></div>
+              <div class="green-bar w-16"></div>
+              <div class="yellow-bar w-7"></div>
+              <div class="green-bar w-16"></div>
+              <div class="yellow-bar w-7"></div>
+            </div>
+            <br />
+           
+           
+           
+            <span class="bold-text">Row 9</span>
+            <br />
+            <br />
+            <div class="main-bar">
+              <div class="yellow-bar w-18"></div>
+              <div class="green-bar w-2"></div>
+              <div class="yellow-bar w-18"></div>
+              <div class="green-bar w-2"></div>
+              <div class="yellow-bar w-18"></div>
+              <div class="green-bar w-2"></div>
+              <div class="yellow-bar w-18"></div>
+              <div class="green-bar w-2"></div>
+              <div class="yellow-bar w-18"></div>
+            </div>
+            <br />
+
+            <span>We will describe how each row will behave dynamically and provide some hints for a possible approach:</span>
+            <ul>
+              <li>3. For the third row, the red and blue </li>
+              <li>4. </li>
+              <li>5. </li>
+              <li>6. </li>
+              <li>7. </li>
+              <li>8. </li>
+              <li>9. </li>
+            </ul>
+            <span></span>
+ </div>
+        
         </section>
       </main>
+      
+      <footer class=" bg-g tc">
+        <div>
+          
+        <span>@ 2022 | Muhammad Umair Ahmad</span>
+        <br />
+        <span class="orange">www.muhammadumair.net</span>
+        </div>
+      </footer>
+      
     </>
   );
 };
