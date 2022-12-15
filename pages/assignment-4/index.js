@@ -396,17 +396,26 @@ const index = () => {
             </div>
             <br />
 
-            <span>We will describe how each row will behave dynamically and provide some hints for a possible approach:</span>
+            <span>
+                We will describe how each row will behave dynamically and provide some hists for a possible approach For this third row thd and blant rectangles should be the same width, and the giant space should shink:</span>
             <ul>
-              <li>3. For the third row, the red and blue </li>
-              <li>4. </li>
-              <li>5. </li>
-              <li>6. </li>
-              <li>7. </li>
-              <li>8. </li>
-              <li>9. </li>
+              <li>3. For the fourth row the blue and rectangle should remain the same with and the red rectangle should shenk Fosate Approach: Have a div with a red background and adv with a bum background Hayes fired width on the blue dy Use Fer Gre </li>
+              <li>4. For the fifth row, this red square should remain the same sore but always remain in the canter of the green rectangle</li>
+              <li>5.  Think about how to keep a dir fixed size and how to agn something in the absolute center of the parovit element. 6. For the show the blur angle should come the same size, while that red rectangles should shine. The blur rectangle should ran in the
+                conter of the row</li>
+              <li>6. For the seventh row, the rad rectangle should ran the same width
+                Hr. Nest dive and use background-color trenerent
+                For the eighth row the range rectangles should remain the same size while the grown space between then shrinki</li>
+              <li>7. For the ninth row, the green space between the orange rectangles should remain the same width while the orange rectangles narrow
+
+              </li>
+              <li>8.       The examples we provided with the first two rectangular blocks use flexboxes. You are not required to une flexboxes for the next 7 rown, but we recommend
+                
+           </li>
+              <li>9.       as it will also be useful in part 2 of this assignment You should only have to use the html element to complete this assignment. Also, none of the divs you create inside of the provided wrapper
+            </li>
             </ul>
-            <span></span>
+            <span>should have and color aroo But it is valid to specify non-green background colors for any divs, including the wrapper Try to slym the boxes as closely to the solution image as possible don't worry about getting exact dimensions or righ values. We care about what structure,</span>
  </div>
         
         </section>
