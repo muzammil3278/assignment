@@ -396,7 +396,9 @@ const index = () => {
             </div>
             <br />
 
-            <span>
+           
+ </div>
+ <span>
                 We will describe how each row will behave dynamically and provide some hists for a possible approach For this third row thd and blant rectangles should be the same width, and the giant space should shink:</span>
             <ul>
               <li>3. For the fourth row the blue and rectangle should remain the same with and the red rectangle should shenk Fosate Approach: Have a div with a red background and adv with a bum background Hayes fired width on the blue dy Use Fer Gre </li>
@@ -416,8 +418,6 @@ const index = () => {
             </li>
             </ul>
             <span>should have and color aroo But it is valid to specify non-green background colors for any divs, including the wrapper Try to slym the boxes as closely to the solution image as possible don't worry about getting exact dimensions or righ values. We care about what structure,</span>
- </div>
-        
         </section>
       </main>
       
